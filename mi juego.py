@@ -7,7 +7,7 @@ print(f"""
       Hola {a}, bienvenido a mi juego,
       esto es una beta, beta, beta donde 
       verán el comienzo del desarrollo de 
-      este juego :)   
+      este juego :mmm)   
 """)
-input("\nPresiona ENTER para salir...")
+input("\nPresiona ENTER para salir....")
 os.system("pause")
