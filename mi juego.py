@@ -3,6 +3,7 @@ import os
 
 print("INGRESE NOMBRE DEL PROTAGONISTA")
 a = input()
+print("hola ._.")
 print(f"""
       Hola {a}, bienvenido a mi juego,
       esto es una beta, beta, beta donde 
